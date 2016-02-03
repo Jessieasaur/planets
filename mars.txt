@@ -1,9 +1,15 @@
+
 This is Alie's addition to txt file mars.txt
 This is my more complicated addition 
 	hopefully there is a conflict ...
+
+Not sure I want to move to mars
+The flight will be very long
+
 
 Cold and dry, but everything is my favourite colour
 The two moons may be a problem for wolfman
 But the mummy will like the dryness
 But no one will like the cold
 Although we can live in well insulated space pods
+
